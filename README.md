@@ -1,6 +1,6 @@
-# projeto-teste
-# Versionamento
-# Machine Learning com Scikit-learn
+#Versionamento
 
-# Salva alterações
-## push
+
+
+* push
+* pull
