@@ -1,6 +1,7 @@
-#Versionamento
+# Versionamento
 
 
 
 * push
 * pull
+* fetch 
